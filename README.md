@@ -2,7 +2,9 @@
 
 ## Observações
 
-- Essa matéria sucede a anterior de mesmo nome, portanto a linguagem C continuará sendo usada para resolver os exercícios.
+- Essa matéria sucede a anterior de mesmo nome, portanto a linguagem C continuará sendo usada para resolver os exercícios;
+- Algumas das aulas servem como revisão de conteúdos vistos na matéria anterior;
+- Menos exercícios por aula serão feitos, pois a maioria das atividades estão condensadas em listas gerais.
 
 ## Informações Acadêmicas
 
@@ -17,4 +19,15 @@
 
 ## Checklist de Aulas
 
-Por enquanto sem planejamento
+- [ ] Aula 01 - Vetores e Strings
+- [ ] Aula 02 - Funções 1
+- [ ] Aula 03 - Funções 2
+- [ ] Aula 04 - Recursão e Ponteiros
+- [ ] Aula 05 - Ordenação 1 e Busca
+- [ ] Aula 06 - Ordenação 2 e Merge
+- [ ] Aula 07 - Ordenação 3 e MergeSort
+- [ ] Aula 08 - Matrizes
+- [ ] Aula 09 - Struct
+- [ ] Aula 10 - Arquivos 1
+- [ ] Aula 11 - Arquivos 2
+- [ ] Aula 12 - Arquivos Binários
