@@ -4,6 +4,7 @@
 
 - Essa matéria sucede a anterior de mesmo nome, portanto a linguagem C continuará sendo usada para resolver os exercícios;
 - Algumas das aulas servem como revisão de conteúdos vistos na matéria anterior;
+- Menos exercícios por aula serão feitos, pois a maioria das atividades estão condensadas em listas gerais.
 
 ## Informações Acadêmicas
 
