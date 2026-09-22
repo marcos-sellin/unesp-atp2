@@ -20,7 +20,7 @@
 ## Checklist de Aulas
 
 - [X] Aula 01 - Vetores e Strings
-- [ ] Aula 02 - Funções 1
+- [X] Aula 02 - Funções 1
 - [ ] Aula 03 - Funções 2
 - [ ] Aula 04 - Recursão e Ponteiros
 - [ ] Aula 05 - Ordenação 1 e Busca
