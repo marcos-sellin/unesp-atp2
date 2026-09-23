@@ -31,3 +31,11 @@
 - [ ] Aula 10 - Arquivos 1
 - [ ] Aula 11 - Arquivos 2
 - [ ] Aula 12 - Arquivos Binários
+
+## Checklist das Listas
+
+- [ ] Lista 01 - Arrays Unidimensionais e Multidimensionais
+- [ ] Lista 02 - Matrizes com Arrays Multidimensionais
+- [ ] Lista 03 - Variáveis Estruturadas Heterogêneas, Uniões e Enumerações
+- [ ] Lista 04 - Manipulação de Arquivos em C
+- [ ] Lista 05 - Funções Recursivas em C
