@@ -21,13 +21,13 @@
 
 - [X] Aula 01 - Vetores e Strings
 - [X] Aula 02 - Funções 1
-- [ ] Aula 03 - Funções 2
+- [X] Aula 03 - Funções 2
 - [ ] Aula 04 - Recursão e Ponteiros
-- [ ] Aula 05 - Ordenação 1 e Busca
-- [ ] Aula 06 - Ordenação 2 e Merge
-- [ ] Aula 07 - Ordenação 3 e MergeSort
-- [ ] Aula 08 - Matrizes
-- [ ] Aula 09 - Struct
+- [ ] Aula 05 - Struct
+- [ ] Aula 06 - Ordenação 1 e Busca
+- [ ] Aula 07 - Ordenação 2 e Merge
+- [ ] Aula 08 - Ordenação 3 e MergeSort
+- [ ] Aula 09 - Matrizes
 - [ ] Aula 10 - Arquivos 1
 - [ ] Aula 11 - Arquivos 2
 - [ ] Aula 12 - Arquivos Binários

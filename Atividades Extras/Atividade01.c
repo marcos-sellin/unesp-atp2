@@ -3,7 +3,7 @@
 
 #include <stdio.h>
 
-int busca_binaria(int start, int end) {
+int Busca_binaria(int start, int end) {
 
     int bool, metade;
 
@@ -23,15 +23,15 @@ int busca_binaria(int start, int end) {
         scanf("%d", &bool);
 
         if(bool == 1){
-            return busca_binaria(start, metade);
+            return Busca_binaria(start, metade);
         }else{
-            return busca_binaria(metade + 1, end);
+            return Busca_binaria(metade + 1, end);
         }
     }
 
 }
 
-int main() {
+int main(void) {
 
     int bool, resultado;
 
@@ -43,9 +43,9 @@ int main() {
     scanf("%d", &bool);
     
     if(bool == 1){
-        resultado = busca_binaria(0, 500);
+        resultado = Busca_binaria(0, 500);
     }else{
-        resultado = busca_binaria(501, 1000);
+        resultado = Busca_binaria(501, 1000);
     }
 
     printf("\nSeu numero e %d", resultado);

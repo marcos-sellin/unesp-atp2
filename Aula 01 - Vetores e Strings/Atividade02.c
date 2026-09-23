@@ -4,7 +4,7 @@
 #include <stdio.h>
 #include <string.h>
 
-int checar_palindromo(char palavra[]) {
+int Checar_palindromo(char palavra[]) {
 
     int tamanho = strlen(palavra);
 
@@ -18,7 +18,7 @@ int checar_palindromo(char palavra[]) {
 
 }
 
-int main() {
+int main(void) {
 
     int palindromo;
     char palavra[100];
@@ -27,7 +27,7 @@ int main() {
     fgets(palavra, 100, stdin);
     palavra[strlen(palavra) - 1] = '\0';
 
-    palindromo = checar_palindromo(palavra);
+    palindromo = Checar_palindromo(palavra);
 
     if(palindromo == 1){
         printf("A palavra e um palindromo");

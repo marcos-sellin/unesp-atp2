@@ -4,7 +4,7 @@
 #include <stdio.h>
 #include <string.h>
 
-int main() {
+int main(void) {
 
     int sao_iguais;
     char palavra1[81], palavra2[81];

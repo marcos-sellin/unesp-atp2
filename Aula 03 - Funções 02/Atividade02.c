@@ -4,7 +4,7 @@
 
 #include <stdio.h>
 
-int Produto_de_primos(int n, int *imp1, int *imp2){
+int Produto_de_impares(int n, int *imp1, int *imp2){
     
     int guardar_i, guardar_j;
 
@@ -22,14 +22,14 @@ int Produto_de_primos(int n, int *imp1, int *imp2){
 
 }
 
-int main() {
+int main(void) {
 
     int numero, impar1 = 0, impar2 = 0;
 
     printf("Digite um numero: ");
     scanf("%d", &numero);
 
-    Produto_de_primos(numero, &impar1, &impar2);
+    Produto_de_impares(numero, &impar1, &impar2);
 
     if(impar1 == 0 || impar2 == 0){
         printf("\nO numero nao e o produto de dois impares");

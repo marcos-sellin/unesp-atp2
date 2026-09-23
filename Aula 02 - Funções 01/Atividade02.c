@@ -4,7 +4,7 @@
 
 #include <stdio.h>
 
-float media_provas(int n){
+float Media_provas(int n){
 
     float nota, media;
 
@@ -19,7 +19,7 @@ float media_provas(int n){
 return media;
 }
 
-int main() {
+int main(void) {
 
     int n_provas;
     float media;
@@ -27,7 +27,7 @@ int main() {
     printf("Digite o numero de provas: ");
     scanf("%d", &n_provas);
 
-    media = media_provas(n_provas);
+    media = Media_provas(n_provas);
 
     printf("Media das provas: %.1f", media);
 

@@ -11,7 +11,7 @@ void Troca_numero(int *n1, int *n2) {
 
 }
 
-int main() {
+int main(void) {
 
     int n1, n2;
 

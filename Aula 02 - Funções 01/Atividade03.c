@@ -7,7 +7,7 @@
 
 #include <stdio.h>
 
-float media_notas_aluno(int n_provas, int n_questoes[]){
+float Media_notas_aluno(int n_provas, int n_questoes[]){
 
     int bool;
     float valor_questao, nota = 0, media = 0;
@@ -35,7 +35,7 @@ float media_notas_aluno(int n_provas, int n_questoes[]){
 return media;
 }
 
-int main() {
+int main(void) {
 
     int n_provas, n_alunos;
     float media, numerador = 0, denominador = 0;
@@ -56,7 +56,7 @@ int main() {
     for(int i = 1; i <= n_alunos; i++){
         printf("\n///// ALUNO %d /////\n", i);
 
-        media = media_notas_aluno(n_provas, n_questoes);
+        media = Media_notas_aluno(n_provas, n_questoes);
 
         if(media >= 5){
             numerador += media;

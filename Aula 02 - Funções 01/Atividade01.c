@@ -4,7 +4,7 @@
 
 #include <stdio.h>
 
-float nota_prova(void){
+float Nota_prova(void){
 
     int n_questoes, bool;
     float nota = 0, valor_questao;
@@ -27,11 +27,11 @@ float nota_prova(void){
 return nota;
 }
 
-int main() {
+int main(void) {
 
     float nota;
 
-    nota = nota_prova();
+    nota = Nota_prova();
 
     printf("Nota da prova: %.1f", nota);
 

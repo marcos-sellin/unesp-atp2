@@ -14,7 +14,7 @@
 
 #include <stdio.h>
 
-int main() {
+int main(void) {
 
     int tamanho_vetor,              // conta quantos números serão digitados
         maior_frequencia = 0,       // armazena qual dos números digitados aparece mais vezes
