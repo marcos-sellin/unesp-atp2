@@ -4,7 +4,7 @@
 
 #include <stdio.h>
 
-float Media_provas(int n){
+float Media_provas(int n) {
 
     float nota, media;
 

@@ -4,7 +4,7 @@
 
 #include <stdio.h>
 
-int Maior_valor(int *nums){
+int Maior_valor(int *nums) {
 
     int maior = *nums;
 

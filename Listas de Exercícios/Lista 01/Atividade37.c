@@ -3,7 +3,7 @@
 
 #include <stdio.h>
 
-float Calc_media(int *nums){
+float Calc_media(int *nums) {
 
     float media = 0;
 

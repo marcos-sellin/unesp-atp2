@@ -4,7 +4,7 @@
 
 #include <stdio.h>
 
-void Inverte_array(int *nums, int tam){
+void Inverte_array(int *nums, int tam) {
 
     int aux, j = tam - 1;
 

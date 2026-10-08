@@ -4,7 +4,7 @@
 
 #include <stdio.h>
 
-int Produto_de_impares(int n, int *imp1, int *imp2){
+int Produto_de_impares(int n, int *imp1, int *imp2) {
     
     int guardar_i, guardar_j;
 

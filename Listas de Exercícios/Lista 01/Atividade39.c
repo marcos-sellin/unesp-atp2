@@ -4,7 +4,7 @@
 
 #include <stdio.h>
 
-int Quant_positivos(int *nums){
+int Quant_positivos(int *nums) {
 
     int quant = 0;
 
