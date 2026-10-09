@@ -14,9 +14,9 @@ int main(void) {
 
     Info produtos[5];
 
+    printf("/////COLETA DE DADOS/////\n");
+
     for(int i = 0; i < 5; i++){
-        printf("/////COLETA DE DADOS/////\n");
-        
         printf("Informe o nome do produto: ");
         fgets(produtos[i].nome, 50, stdin);
         produtos[i].nome[strcspn(produtos[i].nome, "\n")] = '\0';

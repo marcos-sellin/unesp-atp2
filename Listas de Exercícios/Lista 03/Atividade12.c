@@ -51,7 +51,7 @@ int main(void) {
     printf("=====FIM DA COLETA DE DADOS=====\n");
 
     for(int i = 0; i < QUANT_ALUNOS; i++){
-        printf("\n/////REGISTRO DO ALUNO 1/////");
+        printf("\n/////REGISTRO DO ALUNO %d/////", i + 1);
 
         printf("\nNome: \t%s", aluno[i].pessoal.nome);
         printf("\nIdade: \t%d", aluno[i].pessoal.idade);
