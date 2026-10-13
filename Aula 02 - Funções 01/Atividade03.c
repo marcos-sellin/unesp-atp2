@@ -7,7 +7,7 @@
 
 #include <stdio.h>
 
-float Media_notas_aluno(int n_provas, int n_questoes[]){
+float Media_notas_aluno(int n_provas, int n_questoes[]) {
 
     int bool;
     float valor_questao, nota = 0, media = 0;

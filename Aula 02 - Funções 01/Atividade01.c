@@ -4,7 +4,7 @@
 
 #include <stdio.h>
 
-float Nota_prova(void){
+float Nota_prova(void) {
 
     int n_questoes, bool;
     float nota = 0, valor_questao;

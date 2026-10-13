@@ -4,7 +4,7 @@
 
 #include <stdio.h>
 
-int Produto_de_impares(int n, int seq, int cont_1, int *imp1, int *imp2, int *imp3, int *imp4){
+int Produto_de_impares(int n, int seq, int cont_1, int *imp1, int *imp2, int *imp3, int *imp4) {
     
     int div_i, div_j, div_k, init = 1;
 
