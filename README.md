@@ -34,8 +34,8 @@
 
 ## Checklist das Listas
 
-- [ ] Lista 01 - Arrays Unidimensionais e Multidimensionais
+- [X] Lista 01 - Arrays Unidimensionais e Multidimensionais
 - [ ] Lista 02 - Matrizes com Arrays Multidimensionais
-- [ ] Lista 03 - Variáveis Estruturadas Heterogêneas, Uniões e Enumerações
+- [X] Lista 03 - Variáveis Estruturadas Heterogêneas, Uniões e Enumerações
 - [ ] Lista 04 - Manipulação de Arquivos em C
-- [ ] Lista 05 - Funções Recursivas em C
+- [X] Lista 05 - Funções Recursivas em C
